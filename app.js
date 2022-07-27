@@ -37,7 +37,9 @@ function birth() {
     //     console.log(date3);
 
     // }
-
+if (Date1 === Date2 && month1 === month2){
+    alert('Happy BirthDay to you 🥳🎂🍰')
+}
 
     if (month1 === month2) {
         if (Date1 < Date2) {
